@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![r-yoshida1992's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-yoshida1992&theme=vue-dark&show_icons=true)](https://github.com/r-yoshida1992/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-yoshida1992&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/r-yoshida1992/github-readme-stats)
